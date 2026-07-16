@@ -126,6 +126,6 @@ Projeto funcional e aberto para futuras melhorias.
 
 <div align="center">
 
-Desenvolvido por **Emanuel FHX**
+Desenvolvido por **Emanuel Penna**
 
 </div>
